@@ -1,7 +1,7 @@
 wlux_env
 ========
 
-Vagrantfile and Cookbooks for WebLabUX
+Vagrantfile and associated Chef cookbooks for WebLabUX Development
 
 # Requirements
 
