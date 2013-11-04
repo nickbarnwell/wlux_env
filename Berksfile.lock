@@ -2,8 +2,8 @@
   "sources": {
     "xampp": {
       "locked_version": "1.2.5",
-      "git": "https://github.com/rapid7-cookbooks/xampp.git",
-      "ref": "f4489fb0c1313da85d1ee51e9009d7a5332310af"
+      "git": "https://github.com/nickbarnwell/xampp.git",
+      "ref": "073ee38d6b0e73b461a70ef9ab4c2e619ef5a977"
     },
     "apt": {
       "locked_version": "2.2.0"
