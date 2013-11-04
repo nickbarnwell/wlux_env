@@ -6,3 +6,4 @@ cookbook "build-essential", "~1.4.2"
 cookbook "users"
 cookbook "sudo"
 cookbook "vim"
+cookbook "wlux_dev", path: './cookbooks/wlux_dev'
