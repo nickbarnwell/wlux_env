@@ -1,7 +1,8 @@
 Vagrant.configure("2") do |config| 
   config.berkshelf.enabled = true
-  config.vm.box = "precise64"
 
+  config.vm.box.url = "http://files.vagrantup.com/precise64.box"
+  config.vm.box = "precise64"
 
   config.vm.define :wlux_server do |config|
     config.vm.hostname = "wlux"

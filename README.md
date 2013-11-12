@@ -30,7 +30,6 @@ will be reflected on the VM, and vise-versa.
 
 0. `bundle install`
 1. `vagrant plugin install vagrant-berkshelf`
-2. `vagrant box add http://files.vagrantup.com/precise64.box`
-3. `vagrant up`
-4. Pray.
+2. `vagrant up`
+3. Pray.
 
