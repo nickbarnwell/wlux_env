@@ -9,6 +9,9 @@ Vagrant for WebLabUX Development
     1. Those on Windows can use [RubyInstaller](http://rubyinstaller.org/),
        \*nix platforms should use your distribution's package manager or default
        Ruby installation.
+    3. Those on Windows will also need the appropriate
+       [DevKit](https://github.com/oneclick/rubyinstaller/wiki/Development-Kit)
+       to compile the native C extensions required for some gems.
     2. Once Ruby is installed, run `gem install bundler` to install Bundler
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) (~> 4.3.x) Installed
 * [Vagrant](http://www.vagrantup.com/) (~> 1.3.2) Installed
